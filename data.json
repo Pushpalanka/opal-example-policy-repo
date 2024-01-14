@@ -7,6 +7,13 @@
         "ip": "8.8.8.8"
       }
     },
+    "lanka": {
+      "roles": ["admin"],
+      "location": {
+        "country": "LK",
+        "ip": "8.8.8.8"
+      }
+    },
     "bob": {
       "roles": ["employee", "billing"],
       "location": {
